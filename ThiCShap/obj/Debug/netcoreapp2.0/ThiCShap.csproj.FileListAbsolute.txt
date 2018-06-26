@@ -1,0 +1,11 @@
+C:\Users\Admin\RiderProjects\ThiCShap\ThiCShap\bin\Debug\netcoreapp2.0\ThiCShap.deps.json
+C:\Users\Admin\RiderProjects\ThiCShap\ThiCShap\bin\Debug\netcoreapp2.0\ThiCShap.runtimeconfig.json
+C:\Users\Admin\RiderProjects\ThiCShap\ThiCShap\bin\Debug\netcoreapp2.0\ThiCShap.runtimeconfig.dev.json
+C:\Users\Admin\RiderProjects\ThiCShap\ThiCShap\bin\Debug\netcoreapp2.0\ThiCShap.dll
+C:\Users\Admin\RiderProjects\ThiCShap\ThiCShap\bin\Debug\netcoreapp2.0\ThiCShap.pdb
+C:\Users\Admin\RiderProjects\ThiCShap\ThiCShap\obj\Debug\netcoreapp2.0\ThiCShap.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\ThiCShap\ThiCShap\obj\Debug\netcoreapp2.0\ThiCShap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\ThiCShap\ThiCShap\obj\Debug\netcoreapp2.0\ThiCShap.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\ThiCShap\ThiCShap\obj\Debug\netcoreapp2.0\ThiCShap.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\ThiCShap\ThiCShap\obj\Debug\netcoreapp2.0\ThiCShap.dll
+C:\Users\Admin\RiderProjects\ThiCShap\ThiCShap\obj\Debug\netcoreapp2.0\ThiCShap.pdb
